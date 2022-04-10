@@ -1,8 +1,7 @@
-export const person = require("../assets/icons/person.png");
-export const config = require("../assets/icons/config.png");
+
+export const logo = require("../assets/images/logo.png");
 
 
 export default {
-    person,
-    config
+    logo
 }
